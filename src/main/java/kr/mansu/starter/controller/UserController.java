@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller()
 @RequestMapping("user")
-public class User {
+public class UserController {
   
   @GetMapping(value="")
   public String test(Model model) {
