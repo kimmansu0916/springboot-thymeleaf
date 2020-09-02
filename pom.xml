@@ -10,7 +10,7 @@
   </parent>
   
 	<groupId>kr.mansu.starter</groupId>
-	<artifactId>srpingboot-web</artifactId>
+	<artifactId>srpingboot-thymeleaf</artifactId>
   <version>0.0.1</version>
   
 	<name>Spring Boot Web Starter Kit</name>
